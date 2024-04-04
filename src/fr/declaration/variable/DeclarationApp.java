@@ -12,14 +12,11 @@ public class DeclarationApp {
 		char c = 'a';
 		String chaine = "Salut";
 		boolean bool = true;
-		
+
 		System.out.println(chaine);
-		
+
 		String randomString = "Voici le résultat d'un calcul : 1+5=6";
-		
+
 		System.out.println(randomString);
-		
-
 	}
-
 }
